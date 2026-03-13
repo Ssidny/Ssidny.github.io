@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Noticias UNAS y Tingo María</title>
+<link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+
+<header>
+<h1>Portal Informativo UNAS - Tingo María</h1>
+<p>Noticias universitarias y turísticas de la ciudad de Tingo María</p>
+</header>
+
+<nav>
+<a href="index.html">Inicio</a>
+<a href="unas.html">Universidad UNAS</a>
+<a href="noticias.html">Noticias</a>
+<a href="tingo.html">Tingo María</a>
+</nav>
+
+<section class="contenedor">
+
+<h2>Bienvenido</h2>
+
+<p>
+Este portal informativo presenta noticias y contenido relevante sobre la
+<strong>Universidad Nacional Agraria de la Selva (UNAS)</strong> y la ciudad de
+<strong>Tingo María</strong>. Aquí podrás conocer información sobre nuevas
+escuelas profesionales, actividades universitarias, atractivos turísticos y
+noticias importantes de la región.
+</p>
+
+<div class="tarjetas">
+
+<div class="tarjeta">
+<h3>Nuevas escuelas en la UNAS</h3>
+<p>La universidad viene ampliando su oferta académica con tres nuevas carreras profesionales.</p>
+<a href="unas.html">Leer más</a>
+</div>
+
+<div class="tarjeta">
+<h3>Piscina de la UNAS habilitada</h3>
+<p>La piscina universitaria vuelve a estar disponible para estudiantes y la comunidad.</p>
+<a href="noticias.html">Leer más</a>
+</div>
+
+<div class="tarjeta">
+<h3>Turismo en Tingo María</h3>
+<p>Descubre los principales atractivos turísticos de la ciudad de la Bella Durmiente.</p>
+<a href="tingo.html">Leer más</a>
+</div>
+
+</div>
+
+</section>
+
+<footer>
+<p>© 2026 Portal Informativo UNAS - Tingo María</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Universidad Nacional Agraria de la Selva</title>
+<link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+
+<header>
+<h1>Universidad Nacional Agraria de la Selva</h1>
+</header>
+
+<nav>
+<a href="index.html">Inicio</a>
+<a href="unas.html">Universidad</a>
+<a href="noticias.html">Noticias</a>
+<a href="tingo.html">Tingo María</a>
+</nav>
+
+<section class="contenedor">
+
+<h2>Nuevas Escuelas Profesionales</h2>
+
+<article>
+<h3>Turismo y Hotelería</h3>
+<p>
+Esta nueva escuela busca formar profesionales especializados en la gestión
+turística sostenible, hotelería, planificación de destinos turísticos y
+promoción del turismo en la región amazónica.
+</p>
+</article>
+
+<article>
+<h3>Ingeniería Civil</h3>
+<p>
+La carrera de Ingeniería Civil permitirá formar profesionales capaces de
+diseñar, construir y gestionar obras de infraestructura necesarias para el
+desarrollo regional y nacional.
+</p>
+</article>
+
+<article>
+<h3>Ciberseguridad</h3>
+<p>
+La escuela de Ciberseguridad se enfoca en la protección de sistemas
+informáticos, redes digitales y datos frente a amenazas tecnológicas,
+formando especialistas en seguridad digital.
+</p>
+</article>
+
+</section>
+
+<footer>
+<p>Portal Informativo UNAS</p>
+</footer>
+
+</body>
+</html>
